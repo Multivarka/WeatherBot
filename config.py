@@ -1,0 +1,2 @@
+weather_api = "1f43269423d3ce88b3e045b4fa0a628b"
+telegram_api = "5966730195:AAHDHJe_M8IMV9PPVKBH55WprlXzDVC_Te8"
